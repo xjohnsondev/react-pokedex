@@ -1,0 +1,21 @@
+.Pokecard {
+    background-color: rgb(200, 200, 200);
+    border-radius: 15px;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    height: 10em;
+    width: 8em;
+}
+
+.Pokecard-title {
+    color:blue;
+    font-weight: bold;
+    position: relative;
+    top: -5px;
+}
+
+.Pokecard-data {
+    font-size: small;
+    position: relative;
+}
